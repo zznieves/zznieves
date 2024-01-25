@@ -8,7 +8,7 @@ I'm interested in web development, AI, and video-games. I love to build cool pro
 <p>
   Here are the technologies I've been working with recently:<br /><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,git,github" />
   </a>
   <br />
   <br />
@@ -17,6 +17,7 @@ I'm interested in web development, AI, and video-games. I love to build cool pro
 * HTML
 * CSS
 * JavaScript (ES6)
+* TypeScript
 * React
 * Node
 * Express
