@@ -6,21 +6,17 @@ I'm interested in web development, AI, and video-games. I love to build cool pro
 
 ## Skills
 <p>
-  Here are the technologies I've been working with recently:<br /><br />
+  Here are the technologies I've been working with during the summer:<br /><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,git,github" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,dotnet,cs,git,azure,docker" />
   </a>
   <br />
   <br />
 </p>
 
-* HTML
-* CSS
-* JavaScript (ES6)
+* Angular
 * TypeScript
-* React
-* Node
-* Express
-* Postgres
-* Git
-* GitHub
+* .NET
+* C#
+* Azure
+* Docker
