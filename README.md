@@ -18,5 +18,5 @@ I'm interested in web development, AI, and video-games. I love to build cool pro
 * TypeScript
 * .NET
 * C#
-* Azure
+* Azure DevOps
 * Docker
