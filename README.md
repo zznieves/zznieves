@@ -6,17 +6,19 @@ I'm interested in web development, AI, and video-games. I love to build cool pro
 
 ## Skills
 <p>
-  Here are the technologies I've been working with during the summer:<br /><br />
+  Here are the technologies I'm currently working with;<br /><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,dotnet,cs,git,azure,docker" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,ts,git,docker,figma" />
   </a>
   <br />
   <br />
 </p>
 
-* Angular
-* TypeScript
-* .NET
-* C#
-* Azure DevOps
-* Docker
+* React : library for creating responsive websites (front-end)
+*   a. HTML : mark-up language that declares how content should be displayed
+*   b. CSS : used to style elements; color, font, visual layout
+*   c. TypeScript : a super-set of JavaScript, the language that React is built on
+* Git : source-control; keeps record of project versions throughout development lifecycle
+* Docker : allows developers to pack entire project and its' dependencies into a single container
+* Figma : tool used for designing websites (front-end)
+
