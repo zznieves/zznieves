@@ -8,17 +8,13 @@ I'm interested in web development, AI, and video-games. I love to build cool pro
 <p>
   Here are the technologies I'm currently working with;<br /><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,ts,git,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=react,ts,dotnet,cs" />
   </a>
   <br />
   <br />
 </p>
 
 * **React** : library for creating responsive websites (front-end)
-  * **HTML** : mark-up language that declares how content should be displayed
-  * **CSS** : used to style elements; color, font, visual layout
   * **TypeScript** : a super-set of JavaScript, the language that React is built on
-* **Git** : source-control; keeps record of project versions throughout development lifecycle
-* **Docker** : allows developers to pack entire project and its' dependencies into a single container
-* **Figma** : tool used for designing websites (front-end)
+
 
