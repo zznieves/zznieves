@@ -8,7 +8,7 @@ I'm interested in web development, AI, and video-games. I love to build cool pro
 <p>
   Here are the technologies I'm currently working with;<br /><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,dotnet,cs,github,docker" />
+    <img src="https://skillicons.dev/icons?i=ts,react,bootstrap,nodejs,nextjs,java,spring,github,docker" />
   </a>
   <br />
   <br />
